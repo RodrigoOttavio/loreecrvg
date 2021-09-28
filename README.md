@@ -1,4 +1,7 @@
-## Olá, me chamo Lorena Narciso
+
+ <div align="center"> 
+  
+  ## Olá, me chamo Lorena Narciso
 Estudante de Engenharia de Software<br>
 <div align="center">
   <a href="https://github.com/loreecrvg">
